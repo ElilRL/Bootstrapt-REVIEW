@@ -23,3 +23,12 @@ div[class^="col"]{
 .green{
     background-color: #addcae;
 }
+/* end of first grid */
+
+.box2{
+    height: 15%;
+}
+
+.box3{
+    height: 85%;
+}
